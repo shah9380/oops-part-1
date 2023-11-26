@@ -79,4 +79,3 @@ console.log(`Remaining stock quantity for ${product1.name}: ${product1.stockQuan
 console.log(`Remaining stock quantity for ${product2.name}: ${product2.stockQuantity}`);
 console.log(`Remaining stock quantity for ${product3.name}: ${product3.stockQuantity}`);
 
-This JavaScript code mirrors the structure and functionality of the Python example. You can run this code in a browser console or a Node.js environment.
